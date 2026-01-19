@@ -1,0 +1,194 @@
+
+
+      *{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+header{background-color:white;
+padding-top: 34px;}
+nav .top {
+      /*margin:  15px;
+      font-weight: 500;*/
+
+align-items: center;
+      display: flex;
+      justify-content: center;
+      gap: 32px;
+      list-style: none;
+}
+nav{width: 88%;
+      max-width: 1600px;
+      color: black;
+margin: 0px auto;
+padding: 0;
+display: flex;
+justify-content: space-between;
+}
+nav .top a{
+      text-decoration: none;
+       color: black;
+       list-style-type: none;
+       /*margin: 0px auto;*/
+       padding: 0;
+
+}
+.butt{/*width: 132px;*/
+      display: inline-block;
+      background-color: #30B868;
+      border: none;
+      padding: 12px 16px;
+      /*gap: 10px;*/
+      border-radius:5px ;
+      font-weight: bold;
+      /*padding-top: 24px;*/
+     /* padding-bottom: 24px;*/
+      color: white;
+      text-decoration: none;
+
+}
+.top .butt a{
+      color: white;
+      text-decoration: none;
+}
+#banner .image {border: 1px solid red;
+      max-width: 100%;
+      width: 100%;
+      overflow: ;
+display: block; }
+.content{
+      background-color: wheat ;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 200px;
+      background: url(hero-bg.png)
+
+}
+.content-banner{
+      text-align: center;
+      color: white;
+}
+.content-banner a{
+      text-decoration: none;
+      color: white;
+      gap: 10px;
+
+}
+#banner .content-banner p{
+      margin-bottom: 36px;
+      line-height: 24px;
+      color: white;
+      font-size: 18px;
+
+}
+
+
+#banner .content-banner .dot{
+      width: 229px;
+      height: 35px;
+      color: #30B868;
+      padding: 8px 12px 8px 34px;
+      border-radius: 10px;
+      font-weight: 183px;
+      font-size: 16px;
+      text-align: center;
+     
+}
+#banner .content-banner h1{
+      
+}
+
+      
+.highl{
+      color:#30B868
+      ;
+}
+#skills{
+      padding-top: 132px;
+      
+      
+}
+#skills .section-heading h2{
+     text-align: center;
+
+}
+#skills .section-heading p{
+      color:#627382 ;
+      text-align: center;
+      
+      
+}
+
+#skills .skills-content{
+
+      width: 1360px;
+      margin: 0 auto;
+}
+#skills .skills-content .skill-box{
+      display: flex;
+      gap: 24px;}
+      .skill-box .skill-card{
+            padding: 24px;
+            
+            border-radius: 8px;
+            box-shadow: 0 0 8px 0px;
+      
+      }
+      .skill-box .skill-card img{
+          background-color: #F95555;
+          width: 60px;
+          align-items: center;
+          margin-top: 69px;
+          margin-bottom: 16px;
+
+      }
+      .skill-card p{
+            font-size: 16px;
+            line-height: 20px;
+            color: #627382;
+
+      }
+#bann {display: flex;
+      align-items: center;
+      justify-content: space-between;
+     padding: 120px;
+     
+     width:  1360px;
+
+}
+#bann .banners img{
+      border-radius: 12px;
+      gap: 40px;
+      height: auto;
+      width: 600px;
+      margin-right: 60px;
+}
+.banners li{
+      list-style: none;
+      display: flex;
+      line-height: 20px;
+      font-size: 16px;
+      
+}
+#bann .bann-text p{
+      font-size: 16px;
+            line-height: 20px;
+      color: #627382;
+      margin-bottom: 16px;
+     
+      
+}
+#bann .bann-text{
+      margin-left: 60px;
+}
+#bann .bann-text h1{
+      
+      margin-bottom: 16px;
+      
+
