@@ -160,6 +160,7 @@ display: block; }
      padding: 120px;
      
      width:  1360px;
+     
 
 }
 #bann .banners img{
@@ -189,6 +190,58 @@ display: block; }
 }
 #bann .bann-text h1{
       
-      margin-bottom: 16px;
-      
+      margin-bottom: 16px;}
 
+      #end{
+            gap: 40px;
+            
+      }
+      
+#end .end-content{
+      width: 1360px;
+      margin: 0 auto;
+      background-color: #F7F6F2;
+      height: 384px;
+      text-align: center;
+      padding-top: 80px;
+}
+
+
+.end-content p{
+      font-size: 16px;
+            line-height: 20px;
+      color: #627382;
+      padding: 16px;
+      
+}
+footer{
+     padding-top: 120px;
+     height: 348px;
+     background-color: #001931;
+
+margin-top: 120px;
+
+             }
+             .footer-content {
+                  display: flex;
+                  justify-content: space-between;
+                  margin-left: 120px;
+                  margin-right: 120px;
+                  height: 64px;
+                  width: 1360px;
+            
+             }
+             
+
+      
+             
+             footer p{
+                  color: white;
+                  font-size: 16px;
+                  text-align: center;
+                  padding: 120x;
+                  
+                  margin-top: 120px;
+            }
+
+             
